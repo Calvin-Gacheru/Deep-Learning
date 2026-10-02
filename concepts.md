@@ -16,3 +16,6 @@ Is a hyperparameter that determines the sizes of the steps taken during the opti
 Loss Function - A mathematical function that measures the difference between the predicted output of the model and the actual target values. The goal of training a model is to minimize this loss function.
 
 Convergence - The process of the model's parameters stabilizing as it learns from the training data, indicating that the model is approaching an optimal solution. 
+
+---
+
